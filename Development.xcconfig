@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  APOD
+//
+//  Created by Ankit Sharma on 12/03/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APOD_API_KEY = kbYqnUGc3q0usJmhydMkOOJI9qStpiYoZpZ1jslF
